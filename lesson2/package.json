@@ -1,0 +1,28 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "description": "package express utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engine9012/nodeLessons.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "package"
+  ],
+  "author": "engine9012",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engine9012/nodeLessons/issues"
+  },
+  "homepage": "https://github.com/engine9012/nodeLessons#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "utility": "^1.9.0"
+  }
+}

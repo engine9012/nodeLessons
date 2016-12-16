@@ -1,0 +1,29 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engine9012/nodeLessons.git"
+  },
+  "keywords": [
+    "superagent",
+    "cheerio",
+    "craws"
+  ],
+  "author": "engine9012",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engine9012/nodeLessons/issues"
+  },
+  "homepage": "https://github.com/engine9012/nodeLessons#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "superagent": "^3.3.0"
+  }
+}
